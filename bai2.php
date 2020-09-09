@@ -53,5 +53,5 @@ foreach ($count_data as $key => $value) {
     }
 }
 $output = implode(',', $number_count); 
-echo "the number apearance 3 times is:" . $output;
+echo "Numbers duplicate more than 3 times:" . $output;
 
